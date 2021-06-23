@@ -20,7 +20,7 @@ public class AssistantJack {
 
     /**
      * The default constructor but will not be called from outside.
-     * CHANGED **
+     * CHANGED AGAIN**
      */
     private AssistantJack() {
         this.timesAsked = 0;
